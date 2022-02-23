@@ -8,7 +8,7 @@ Incoming Software Engineer intern at IBM [Austin. Summer 2022]
 🔭 Current project:
 
 Algo Visualizer (Python + Pygame)
-Snake Game (C++) /n
+Snake Game (C++)                                                                                                                                                    
 Tic Tac Toe (C++) /n
 HappyUnitedBot (Python + Reddit API\n
 Personal Website (HTML & CSS and JavaScript)\n
