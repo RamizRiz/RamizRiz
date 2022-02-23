@@ -15,14 +15,14 @@ Personal Website (HTML & CSS and JavaScript)
 Random Password Generator (C++)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 🌱 Interests:
 
-Web development.
-Machine Learning.
-Cloud Computing
-Basketball
-Soccer
-
+Web development.                                                                                                                                                                                                                                                                                                            
+Machine Learning.                                                                                                                                                      
+Cloud Computing                                                                                                                                                      
+Basketball                                                                                                                                                                                                                                                                                                            
+Soccer                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 💬 Reach me by email or LinkedIn! ramiz_rizwan@hotmail.com| https://www.linkedin.com/in/ramiz-rizwan/
-
+                                                                                                                                                                                                                                                                                                            
 📫 Visit my website: http://ramizrizwan.com/
 
 <!---
