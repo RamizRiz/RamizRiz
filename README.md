@@ -10,9 +10,9 @@ Incoming Software Engineer intern at IBM [Austin. Summer 2022]
 Algo Visualizer (Python + Pygame)                                                                                                                                    
 Snake Game (C++)                                                                                                                                                    
 Tic Tac Toe (C++)                                                                                                                                                      
-HappyUnitedBot (Python + Reddit API
-Personal Website (HTML & CSS and JavaScript)
-Random Password Generator (C++)\n
+HappyUnitedBot (Python + Reddit API                                                                                                                                                      
+Personal Website (HTML & CSS and JavaScript)                                                                                                                                                      
+Random Password Generator (C++)                                                                                                                                                      
 🌱 Interests:
 
 Web development.
