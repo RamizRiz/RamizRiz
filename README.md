@@ -12,7 +12,7 @@ Snake Game (C++)
 Tic Tac Toe (C++)                                                                                                                                                      
 HappyUnitedBot (Python + Reddit API                                                                                                                                                      
 Personal Website (HTML & CSS and JavaScript)                                                                                                                                                      
-Random Password Generator (C++)                                                                                                                                                                                                                                                                                                            
+Random Password Generator (C++)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 🌱 Interests:
 
 Web development.
