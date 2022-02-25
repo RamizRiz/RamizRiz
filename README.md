@@ -10,7 +10,6 @@ Incoming Software Engineer intern at IBM [Austin. Summer 2022]
 🔭 Current project:
 
 newReddit (Angular + Java)
-
 Algo Visualizer (Python + Pygame)                                                                                                                                    
 Snake Game (C++)                                                                                                                                                    
 Tic Tac Toe (C++)                                                                                                                                                      
