@@ -1,12 +1,16 @@
 Hi there 👋
 My name is Ramiz and I'm a computer science student at the University of Texas at Dallas. Here's some info about me!
 
+
 ⚡ Work experience:
 
 Incoming Software Engineer intern at IBM [Austin. Summer 2022]
 
-🔭 Current project:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-newReddit (Angular + Java)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+🔭 Current project:
+
+newReddit (Angular + Java)
+
 Algo Visualizer (Python + Pygame)                                                                                                                                    
 Snake Game (C++)                                                                                                                                                    
 Tic Tac Toe (C++)                                                                                                                                                      
