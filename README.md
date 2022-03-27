@@ -22,7 +22,6 @@ Random Password Generator (C++)
 
 Web development.                                                                                                                                                                                                                                                                                                            
 Machine Learning.
-
 IOS Development
 
 Cloud Computing                                                                                                                                                      
