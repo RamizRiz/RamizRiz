@@ -21,7 +21,8 @@ Random Password Generator (C++)
 🌱 Interests:
 
 Web development.                                                                                                                                                                                                                                                                                                            
-Machine Learning.                                                                                                                                                      
+Machine Learning.
+IOS Development
 Cloud Computing                                                                                                                                                      
 Basketball                                                                                                                                                                                                                                                                                                            
 Soccer                                                                                                                                                      
