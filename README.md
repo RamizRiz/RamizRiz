@@ -4,7 +4,7 @@ My name is Ramiz and I'm a computer science student at the University of Texas a
 
 ⚡ Work experience:
 
-Incoming Software Engineer intern at IBM [Austin. Summer 2022]
+Incoming Software Engineer intern at IBM [Austin. 2022]
 
 
 🔭 Current project:
