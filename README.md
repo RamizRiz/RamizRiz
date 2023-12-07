@@ -27,13 +27,21 @@ Random Password Generator (C++)
 
 🌱 Interests:
 
-Web development.                                                                                                                                                                                                                                                                                                            
+Web development.   
+Operating systems
+Infrastructure 
+Scalability 
 Machine Learning.
-
 IOS Development
+Cloud Computing                                                                                                                                                 
 
-Cloud Computing                                                                                                                                                      
-Basketball                                                                                                                                                                                                                                                                                                            
+What I’m up to 🏃‍♂️
+Building a tool called PackRanks to find easy classes at UT Dallas to boost my GPA hehe 📚📝
+Building projects with my friends to get into Y Combinator with my pet projects 💼
+Learning and exploring the vast field of computer science
+
+Tennis
+Basketball                                                                                                                                                                                                                                                                                                  
 Soccer                                                                                                                                                      
                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 💬 Reach me by email or LinkedIn! ramiz_rizwan@hotmail.com| https://www.linkedin.com/in/ramiz-rizwan/
