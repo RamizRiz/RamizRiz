@@ -1,54 +1,54 @@
-Hi there 👋
+# Hi there 👋
+
 My name is Ramiz and I'm a computer science student at the University of Texas at Dallas. Here's some info about me!
 
+## ⚡ Work Experience
 
-⚡ Work experience:
+- **Software Engineer Intern** at IBM, Austin (2023)
+- **Software Engineer Intern** at IBM, Austin (2022)
 
-Software Engineer intern at IBM [Austin. 2023]
+## 🔭 Current Projects
 
-Software Engineer intern at IBM [Austin. 2022]
+- **SweaterShop App** - Swift & UIKit
+- **newReddit** - Angular + Java
+- **Algo Visualizer** - Python + Pygame
+- **Snake Game** - C++
+- **Tic Tac Toe** - C++
+- **HappyUnitedBot** - Python + Reddit API
+- **Flappy Bird** - Python + Pygame
+- **Personal Website** - HTML, CSS, and JavaScript
+- **Random Password Generator** - C++
 
+## 🌱 Interests
 
-🔭 Current project:
+- Web Development
+- Operating Systems
+- Infrastructure
+- Scalability
+- Machine Learning
+- iOS Development
+- Cloud Computing
 
-SweaterShop App (swift & UI kit)
+## 🏃‍♂️ What I’m Up To
 
-newReddit (Angular + Java)
+- Building a tool called **PackRanks** to find easy classes at UT Dallas to boost my GPA 📚📝
+- Building projects with my friends to get into Y Combinator with my pet projects 💼
+- Learning and exploring the vast field of computer science
 
-Algo Visualizer (Python + Pygame)                                                                                                                                    
-Snake Game (C++)                                                                                                                                                    
-Tic Tac Toe (C++)                                                                                                                                                      
-HappyUnitedBot (Python + Reddit API)  
+### Hobbies
 
-Flappy Bird(Python + Pygame)                                                                                                                                                     
-Personal Website (HTML & CSS and JavaScript)  
+- Tennis
+- Basketball
+- Soccer
 
-Random Password Generator (C++)
+## 💬 Contact Me
 
-🌱 Interests:
+- Email: [ramiz_rizwan@hotmail.com](mailto:ramiz_rizwan@hotmail.com)
+- LinkedIn: [Ramiz Rizwan](https://www.linkedin.com/in/ramiz-rizwan/)
 
-Web development.        
-Operating systems         
-endl;
-Infrastructure 
-endl;
-Scalability 
-Machine Learning.
-IOS Development
-Cloud Computing                                                                                                                                                 
+## 📫 Visit My Website
 
-What I’m up to 🏃‍♂️
-Building a tool called PackRanks to find easy classes at UT Dallas to boost my GPA hehe 📚📝
-Building projects with my friends to get into Y Combinator with my pet projects 💼
-Learning and exploring the vast field of computer science
-
-Tennis
-Basketball                                                                                                                                                                                                                                                                                                  
-Soccer                                                                                                                                                      
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-💬 Reach me by email or LinkedIn! ramiz_rizwan@hotmail.com| https://www.linkedin.com/in/ramiz-rizwan/
-                                                                                                                                                                                                                                                                                                            
-📫 Visit my website: http://ramizrizwan.com/
+- [ramizrizwan.com](http://ramizrizwan.com/)
 
 <!---
 RamizRiz/RamizRiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
