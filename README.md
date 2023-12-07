@@ -10,7 +10,7 @@ My name is Ramiz and I'm a computer science student at the University of Texas a
 ## 🔭 Current Projects
 
 - **SweaterShop App** - Swift & UIKit
-- **newReddit** - Angular + Java
+- **newReddit** - C++ + MySQL
 - **Algo Visualizer** - Python + Pygame
 - **Snake Game** - C++
 - **Tic Tac Toe** - C++
